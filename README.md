@@ -16,10 +16,10 @@ Python SDK for the [OpenCode](https://opencode.ai) API.
 
 ```bash
 # Using uv (recommended)
-uv add opencode-sdk
+uv add git+https://github.com/agusmdev/opencode-sdk.git
 
 # Using pip
-pip install opencode-sdk
+pip install git+https://github.com/agusmdev/opencode-sdk.git
 ```
 
 ## Quick Start
